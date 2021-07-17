@@ -1,6 +1,6 @@
 package Practice;
 
-public class File1 {
+public class File3 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
