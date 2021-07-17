@@ -10,8 +10,7 @@ public class File1 {
 	public void m1()
 	{
 		System.out.println("this m1");
-		System.out.println("Adding Through remote");
-		System.out.println("Through remote");
+		System.out.println("Adding Through Working Directory");
 	}
 	
 	public void m2()
