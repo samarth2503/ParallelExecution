@@ -6,7 +6,7 @@ pipeline {
         stage('Build') {
             
             when {
-               buildingTag()
+               changelog '.*some_text*.'
             }
             
             steps {
