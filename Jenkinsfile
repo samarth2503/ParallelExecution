@@ -11,7 +11,6 @@ pipeline {
             
             steps {
                 echo 'Hello world'
-                sleep 2
             }
         }
     }
